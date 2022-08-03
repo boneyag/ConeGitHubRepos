@@ -1,0 +1,12 @@
+{
+    "TOKEN": "a2e0697fbe1247ef8cbab5710f1d9ee0c8f3f364",
+    "QUICK_SLEEP": "60",
+    "ERROR_SLEEP": "180",
+    "REPO_SEARCH_QUERY":"language:Python",
+    "IMPORT_SEARCH_QUERY":"in:file language:Python",
+    "MAXSIZE": "20",
+    "LIBRARY_LIST": "LibraryData.json",
+    "POPULARITY_OUTPUT_FILE":"python_popularity_results.txt",
+    "TIME_SPAN":"180",
+    "SEARCHTERM": "in:file language:Python"
+}

@@ -4,3 +4,7 @@ my-software2.0-dataset-20220329.csv
 __pycache__/
 .idea/
 Config.json
+config.json
+results.json
+nohup.txt
+repos/

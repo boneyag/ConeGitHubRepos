@@ -3,8 +3,6 @@ my-software2.0-dataset-20220329.csv
 .Rhistory
 __pycache__/
 .idea/
-Config.json
-config.json
-results.json
+*.json
 nohup.txt
 repos/
